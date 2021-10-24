@@ -1,0 +1,17 @@
+html{
+    background-color: #505050;
+    height: 100vh;
+}
+body{
+    margin: 0;
+    height: 100%;
+}
+.clock{
+    font-family: 'Overpass Mono', monospace;
+    height: 100%;
+    color: #f0f0f0;
+    font-size: 250px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
